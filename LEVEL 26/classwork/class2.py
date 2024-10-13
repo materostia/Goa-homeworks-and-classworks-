@@ -1,0 +1,1 @@
+print("GOA has a lesson in sunday")
