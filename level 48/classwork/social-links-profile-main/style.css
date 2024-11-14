@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    width: 100px;
+    height: 300px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+}
+.insta{
+    font-size: small;
+}
+.twit{
+    font-size: small;
+}
+.linke{
+    font-size: small;
+}
+.front{
+    font-size: small;
+}
+.github{
+   font-size: small;
+   
+}
