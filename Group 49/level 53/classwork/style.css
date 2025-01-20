@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.translateRIGHT{
+    height: 100px;
+    width: 350px;
+    display: flex;
+    border-radius: 30px;
+    background-color: blue;
+
+}
+
+.translateRIGHT:hover{
+    transform: translate(50px);
+}
